@@ -20,7 +20,7 @@
 	<p>
 BMW Barato</p>
 
-<img src="<img width="1600" height="900" alt="cars" src="https://github.com/user-attachments/assets/3cd66756-e47d-473e-a77f-34a4b25e3ac3" />
+<img src="<img width="800" height="450" alt="cars" src="https://github.com/user-attachments/assets/3cd66756-e47d-473e-a77f-34a4b25e3ac3" />
 " height="175px" width="300px">
 
 <hr>
