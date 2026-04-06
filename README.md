@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h1>this is just some text</h2>
+	<h1>this is just some text</h1>
 	<h2>this is just some text</h2>
 	<h3>this is just some text</h3>
 	<h4>this is just some text</h4>
