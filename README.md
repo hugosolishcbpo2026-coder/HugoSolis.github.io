@@ -7,100 +7,93 @@
 
 <style>
 :root {
-  --bg: #0f1117;
-  --card: rgba(255,255,255,0.05);
-  --accent: #00ffd5;
-  --danger: #ff4d6d;
-  --text: #e6e6e6;
-  --muted: #9aa0a6;
+  --bg:#0f1117;
+  --card:rgba(255,255,255,0.05);
+  --accent:#00ffd5;
+  --danger:#ff4d6d;
+  --text:#e6e6e6;
+  --muted:#9aa0a6;
 }
 
 body {
-  margin: 0;
-  font-family: "Segoe UI", sans-serif;
-  background: linear-gradient(135deg, #0f1117, #1a1d26);
-  color: var(--text);
-  padding: 30px;
+  margin:0;
+  font-family:"Segoe UI",sans-serif;
+  background:linear-gradient(135deg,#0f1117,#1a1d26);
+  color:var(--text);
+  padding:30px;
 }
 
 .container {
-  max-width: 1000px;
-  margin: auto;
+  max-width:1000px;
+  margin:auto;
 }
 
 header {
-  text-align: center;
-  margin-bottom: 40px;
+  text-align:center;
+  margin-bottom:40px;
 }
 
 h1 {
-  font-size: 2.5rem;
-  background: linear-gradient(90deg, #00ffd5, #00aaff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  font-size:2.5rem;
+  background:linear-gradient(90deg,#00ffd5,#00aaff);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
 }
 
 h2 {
-  color: var(--muted);
-  font-weight: 400;
+  color:var(--muted);
 }
 
 section {
-  background: var(--card);
-  border-radius: 14px;
-  padding: 25px;
-  margin-bottom: 25px;
-  border: 1px solid rgba(255,255,255,0.08);
+  background:var(--card);
+  border-radius:14px;
+  padding:25px;
+  margin-bottom:25px;
+  border:1px solid rgba(255,255,255,0.08);
 }
 
 h3 {
-  color: var(--accent);
-  border-left: 3px solid var(--accent);
-  padding-left: 10px;
+  color:var(--accent);
+  border-left:3px solid var(--accent);
+  padding-left:10px;
 }
 
 .highlight {
-  color: var(--danger);
-  font-weight: bold;
-}
-
-.link-box {
-  background: rgba(0,0,0,0.3);
-  padding: 10px;
-  border-radius: 8px;
-  font-size: 0.9rem;
-  word-break: break-all;
-  margin-top: 10px;
-}
-
-.audio, .images {
-  margin-top: 15px;
-}
-
-img {
-  width: 100%;
-  max-width: 300px;
-  margin: 10px;
-  border-radius: 10px;
-  border: 1px solid rgba(255,255,255,0.1);
-}
-
-.grid {
-  display: flex;
-  flex-wrap: wrap;
+  color:var(--danger);
+  font-weight:bold;
 }
 
 .contact-card {
-  background: rgba(0,0,0,0.3);
-  padding: 15px;
-  border-radius: 10px;
-  margin-top: 10px;
+  background:rgba(0,0,0,0.3);
+  padding:15px;
+  border-radius:10px;
+  margin-top:10px;
+}
+
+iframe {
+  width:100%;
+  height:250px;
+  border:0;
+  border-radius:10px;
+  margin-top:10px;
+}
+
+img {
+  width:100%;
+  max-width:300px;
+  margin:10px;
+  border-radius:10px;
+}
+
+.grid {
+  display:flex;
+  flex-wrap:wrap;
 }
 
 footer {
-  text-align: center;
-  color: var(--muted);
-  margin-top: 40px;
+  text-align:center;
+  color:var(--muted);
+  margin-top:40px;
 }
 </style>
 </head>
@@ -116,15 +109,21 @@ footer {
 <section>
 <h3>Introduction</h3>
 <p>
-As a sales affiliate working with <strong>Cyber City | Call Center Tijuana</strong>, I have consistently generated revenue. Despite repeated follow-ups, commissions remain unpaid.
+This report documents ongoing issues related to unpaid commissions and concerning interactions experienced while working as an affiliate for <strong>Cyber City | Call Center Tijuana</strong>.
 </p>
 
-<div class="link-box">
-📍 Location:<br>
-https://www.google.com/maps/place/Cyber+City+Call+Center+Tijuana
-</div>
+<p>
+Total outstanding balance: <span class="highlight">[$X]</span>
+</p>
+</section>
 
-<p>Total outstanding balance: <span class="highlight">[$X]</span></p>
+<section>
+<h3>Location Reference</h3>
+
+<iframe 
+src="https://www.google.com/maps?q=Cyber+City+Call+Center+Tijuana&output=embed">
+</iframe>
+
 </section>
 
 <section>
@@ -137,24 +136,28 @@ https://www.google.com/maps/place/Cyber+City+Call+Center+Tijuana
 </section>
 
 <section>
-<h3>Individuals Referenced</h3>
+<h3>Individuals Referenced (As Provided in Communications)</h3>
 
 <div class="contact-card">
 <strong>Name:</strong> Abel<br>
-<strong>Role:</strong> Reported Owner / Operator<br>
+<strong>Role:</strong> Reported Owner / Associated Party<br>
 <strong>Phone:</strong> [Insert Number]
 </div>
 
 <div class="contact-card">
 <strong>Name:</strong> Ram<br>
-<strong>Role:</strong> Reported Owner / Operator<br>
+<strong>Role:</strong> Reported Owner / Associated Party<br>
 <strong>Phone:</strong> [Insert Number]
 </div>
+
+<p style="color: var(--muted); font-size: 0.9rem;">
+*Roles are based on representations made during communications and have not been independently verified.
+</p>
 
 </section>
 
 <section>
-<h3>Associated Companies</h3>
+<h3>Associated Entities (Referenced)</h3>
 
 <div class="contact-card">
 <strong>Company:</strong> Resolution Processing, LLC<br>
@@ -169,20 +172,19 @@ https://www.google.com/maps/place/Cyber+City+Call+Center+Tijuana
 </section>
 
 <section>
-<h3>Threatening Behavior</h3>
+<h3>Threatening / Concerning Behavior</h3>
 <ul>
 <li>Verbal threat reported on [Date]</li>
-<li>Email communication that misrepresented authority</li>
+<li>Communication that appeared to misrepresent authority</li>
 </ul>
 
 <p class="highlight">
-This conduct has created a hostile and unsafe working environment.
+These interactions contributed to a hostile and unsafe working environment.
 </p>
 </section>
 
 <section>
 <h3>Audio Evidence</h3>
-<div class="audio">
 <audio controls>
   <source src="audio1.mp3" type="audio/mpeg">
 </audio>
@@ -190,12 +192,11 @@ This conduct has created a hostile and unsafe working environment.
 <audio controls>
   <source src="audio2.mp3" type="audio/mpeg">
 </audio>
-</div>
 </section>
 
 <section>
 <h3>Image Evidence</h3>
-<div class="images grid">
+<div class="grid">
 <img src="image1.jpg">
 <img src="image2.jpg">
 <img src="image3.jpg">
@@ -207,7 +208,7 @@ This conduct has created a hostile and unsafe working environment.
 <ol>
 <li>Immediate payment of commissions</li>
 <li>Explanation of delays</li>
-<li>Protection of affiliates</li>
+<li>Protection and safety assurances</li>
 <li>Clarification of ownership and authority</li>
 </ol>
 </section>
@@ -215,7 +216,7 @@ This conduct has created a hostile and unsafe working environment.
 <section>
 <h3>Conclusion</h3>
 <p>
-This situation requires immediate attention to resolve financial and professional concerns.
+This matter requires prompt attention to resolve financial discrepancies and ensure a professional and safe working environment.
 </p>
 </section>
 
