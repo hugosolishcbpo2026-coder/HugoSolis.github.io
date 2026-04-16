@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -90,12 +91,19 @@ img {
   flex-wrap:wrap;
 }
 
+video {
+  width:100%;
+  border-radius:12px;
+  box-shadow:0 0 40px rgba(0,255,213,0.25);
+}
+
 footer {
   text-align:center;
   color:var(--muted);
   margin-top:40px;
 }
 </style>
+
 </head>
 
 <body>
@@ -107,23 +115,24 @@ footer {
 </header>
 
 <section>
+<h3>Visual Representation</h3>
+<p style="color:#9aa0a6;">Conceptual visualization of a call center environment</p>
+<video autoplay muted loop controls>
+  <source src="callcenter.mp4" type="video/mp4">
+</video>
+</section>
+
+<section>
 <h3>Introduction</h3>
 <p>
 This report documents ongoing issues related to unpaid commissions and concerning interactions experienced while working as an affiliate for <strong>Cyber City | Call Center Tijuana</strong>.
 </p>
-
-<p>
-Total outstanding balance: <span class="highlight">[$X]</span>
-</p>
+<p>Total outstanding balance: <span class="highlight">[$X]</span></p>
 </section>
 
 <section>
-<h3>Location Reference</h3>
-
-<iframe 
-src="https://www.google.com/maps?q=Cyber+City+Call+Center+Tijuana&output=embed">
-</iframe>
-
+<h3>Cyber City Location</h3>
+<iframe src="https://www.google.com/maps?q=Cyber+City+Call+Center+Tijuana&output=embed"></iframe>
 </section>
 
 <section>
@@ -136,37 +145,39 @@ src="https://www.google.com/maps?q=Cyber+City+Call+Center+Tijuana&output=embed">
 </section>
 
 <section>
-<h3>Individuals Referenced (As Provided in Communications)</h3>
+<h3>Individuals Referenced</h3>
 
 <div class="contact-card">
 <strong>Name:</strong> Abel<br>
 <strong>Role:</strong> Reported Owner / Associated Party<br>
-<strong>Phone:</strong> [Insert Number]
+<strong>Phone:</strong> PASTE-NUMBER-HERE
 </div>
 
 <div class="contact-card">
 <strong>Name:</strong> Ram<br>
 <strong>Role:</strong> Reported Owner / Associated Party<br>
-<strong>Phone:</strong> [Insert Number]
+<strong>Phone:</strong> PASTE-NUMBER-HERE
 </div>
 
-<p style="color: var(--muted); font-size: 0.9rem;">
-*Roles are based on representations made during communications and have not been independently verified.
+<p style="color:#9aa0a6;font-size:0.9rem;">
+Roles based on communications and not independently verified.
 </p>
 
 </section>
 
 <section>
-<h3>Associated Entities (Referenced)</h3>
+<h3>Associated Entities</h3>
 
 <div class="contact-card">
-<strong>Company:</strong> Resolution Processing, LLC<br>
-🌐 https://resolutionprocessing.com/
+<strong>Resolution Processing, LLC</strong><br>
+https://resolutionprocessing.com/
+<iframe src="https://www.google.com/maps?q=Resolution+Processing&output=embed"></iframe>
 </div>
 
 <div class="contact-card">
-<strong>Company:</strong> Morning Law Group<br>
-🌐 https://morninglawgroup.com/
+<strong>Morning Law Group</strong><br>
+https://morninglawgroup.com/
+<iframe src="https://www.google.com/maps?q=Morning+Law+Group&output=embed"></iframe>
 </div>
 
 </section>
@@ -179,12 +190,13 @@ src="https://www.google.com/maps?q=Cyber+City+Call+Center+Tijuana&output=embed">
 </ul>
 
 <p class="highlight">
-These interactions contributed to a hostile and unsafe working environment.
+This conduct created a hostile and unsafe working environment.
 </p>
 </section>
 
 <section>
 <h3>Audio Evidence</h3>
+
 <audio controls>
   <source src="audio1.mp3" type="audio/mpeg">
 </audio>
@@ -192,6 +204,7 @@ These interactions contributed to a hostile and unsafe working environment.
 <audio controls>
   <source src="audio2.mp3" type="audio/mpeg">
 </audio>
+
 </section>
 
 <section>
@@ -216,7 +229,7 @@ These interactions contributed to a hostile and unsafe working environment.
 <section>
 <h3>Conclusion</h3>
 <p>
-This matter requires prompt attention to resolve financial discrepancies and ensure a professional and safe working environment.
+Immediate action is required to resolve this matter and restore a professional working relationship.
 </p>
 </section>
 
