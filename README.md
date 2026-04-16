@@ -9,9 +9,12 @@
 Threatening Behavior - Urgent Request for
 Resolution**
 
+
 **Introduction**
 
-As a sales affiliate working with [Cyber City], I have been diligently promoting their
+
+As a sales affiliate working with [Cyber City | Call Center Tijuana]https://www.google.com/maps/dir//Cyber+City+%7C+Call+Center+Tijuana,+Calle+Hermenegildo+Galeana+8133-4to+piso,+Zona+Centro,+22000+Tijuana,+B.C./@32.4937636,-117.0440192,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80d949ccec866f9d:0xdf6a96ecf3fc9ff0!2m2!1d-117.037104!2d32.5293113?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+, I have been diligently promoting their
 products/services and generating significant
 revenue through my efforts. Unfortunately,
 despite multiple requests, I have not received
@@ -20,7 +23,7 @@ payment for my commissions owed to me, totaling
 non-payment issue, as well as the concerning
 threatening behavior exhibited by one
 affiliate.
-Abel 
+Abel and Ram Cyber City Owners. Ram is the one telling everyone in the call center world he is the owner of Resolution Processing and Morning Law Group. Which he is not and is clearly a con man inpersanating the actuall owner or owenrs of Resolution Processing, LLC 
 <h10></h10>
 
 **Commissions Owed**
