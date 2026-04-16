@@ -1,125 +1,103 @@
-<[DOCTYPE html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<title>my first webpage</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Report on Non-Payment of Commissions and Threatening Behavior">
+  <title>Affiliate Report - Urgent Resolution Request</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #222;
+    }
+    section {
+      margin-bottom: 30px;
+      padding: 20px;
+      background: #fff;
+      border-radius: 6px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    ul {
+      margin: 10px 0;
+      padding-left: 20px;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
 
-	<h1>Non-Payment of Commissions and
-Threatening Behavior - Urgent Request for
-Resolution**
+  <header>
+    <h1>Non-Payment of Commissions and Threatening Behavior</h1>
+    <h2>Urgent Request for Resolution</h2>
+  </header>
 
+  <section>
+    <h3>Introduction</h3>
+    <p>
+      As a sales affiliate working with <strong>[Company Name]</strong>, I have been diligently promoting their products and generating significant revenue. Unfortunately, despite multiple requests, I have not received payment for commissions owed to me, totaling <strong>[$X]</strong>. This report outlines the non-payment issue and the concerning threatening behavior exhibited by one affiliate.
+    </p>
+  </section>
 
-**Introduction**
+  <section>
+    <h3>Commissions Owed</h3>
+    <p>As per our agreement, I am entitled to receive a commission on all sales generated. The outstanding balance is:</p>
+    <ul>
+      <li>Affiliate [Affiliate 1]: $[Amount]</li>
+      <li>Affiliate [Affiliate 2]: $[Amount]</li>
+      <li>Affiliate [Affiliate 3]: $[Amount]</li>
+    </ul>
+  </section>
 
+  <section>
+    <h3>Threatening Behavior</h3>
+    <p>One affiliate, <strong>[Threatening Affiliate]</strong>, has engaged in threatening behavior when I requested payment:</p>
+    <ul>
+      <li>On [Date], made a verbal threat against me.</li>
+      <li>On [Date], sent an email impersonating ownership and dismissing my concerns.</li>
+    </ul>
+    <p>This behavior has created a hostile environment and raises serious concerns about safety.</p>
+  </section>
 
-As a sales affiliate working with [Cyber City | Call Center Tijuana]https://www.google.com/maps/dir//Cyber+City+%7C+Call+Center+Tijuana,+Calle+Hermenegildo+Galeana+8133-4to+piso,+Zona+Centro,+22000+Tijuana,+B.C./@32.4937636,-117.0440192,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80d949ccec866f9d:0xdf6a96ecf3fc9ff0!2m2!1d-117.037104!2d32.5293113?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
-, I have been diligently promoting their
-products/services and generating significant
-revenue through my efforts. Unfortunately,
-despite multiple requests, I have not received
-payment for my commissions owed to me, totaling
-[$tenths of thousandths]. This report outlines the details of the
-non-payment issue, as well as the concerning
-threatening behavior exhibited by one
-affiliate.
-Abel and Ram Cyber City Owners. Ram is the one telling everyone in the call center world he is the owner of Resolution Processing and Morning Law Group. Which he is not and is clearly a con man inpersanating the actuall owner or owenrs of Resolution Processing, LLC 
-<h10></h10>
+  <section>
+    <h3>Request for Resolution</h3>
+    <ol>
+      <li>Pay commissions owed, totaling [$X].</li>
+      <li>Provide explanation for delays and prevent future issues.</li>
+      <li>Ensure safety and security of affiliates.</li>
+      <li>Verify ownership legitimacy to avoid misrepresentation.</li>
+    </ol>
+  </section>
 
-**Commissions Owed**
+  <section>
+    <h3>Conclusion</h3>
+    <p>
+      As a dedicated affiliate, I believe it is essential to maintain a professional relationship with <strong>[Company Name]</strong>. The lack of payment and threatening behavior have created an untenable situation. I hope this report prompts swift action to resolve these issues and restore trust.
+    </p>
+  </section>
 
-As per our agreement, I am entitled to receive
-[insert percentage/commission rate] on all
-sales generated through my efforts. However,
-despite numerous requests, I have not received
-payment for the commissions owed to me, which
-totals [$X]. The outstanding balance is as
-follows:
+  <section>
+    <h3>Attachments</h3>
+    <ul>
+      <li>Sales performance and commission breakdown</li>
+      <li>Screenshots of emails and conversations</li>
+      <li>Additional documentation supporting claims</li>
+    </ul>
+  </section>
 
-* Affiliate [Affiliate 1]: $[Amount]
-* Affiliate [Affiliate 2]: $[Amount]
-* Affiliate [Affiliate 3]: $[Amount]
-
-**Threatening Behavior**
-
-One affiliate, [Threatening Affiliate], has
-engaged in threatening behavior when I
-requested payment for my commissions.
-Specifically:
-
-* On [Date], [Threatening Affiliate] made a
-verbal threat against me, stating that if I
-continued to pursue payment, they would "take
-care of" the situation.
-* On [Date], [Threatening Affiliate] sent an
-email to me, claiming to be the owner of the
-company and asserting that he had talked to the
-real owner, who was supposedly unaware of my
-concerns. This behavior has created a hostile
-work environment and raises serious concerns
-about the safety and security of all
-affiliates.
-
-**Request for Resolution**
-
-In light of these issues, I respectfully
-request that [Company Name] takes immediate
-action to address the following:
-
-1. Pay me the commissions owed to me, totaling
-[$X], as per our agreement.
-2. Provide a clear explanation for the delay in
-payment and a plan to prevent future delays.
-3. Take appropriate measures to ensure the
-safety and security of all affiliates,
-including [Threatening Affiliate].
-4. Verify the ownership and legitimacy of
-[Company Name] and its affiliates to avoid any
-further confusion or misrepresentation.
-
-**Conclusion**
-
-As a dedicated affiliate, I believe it is
-essential to maintain a professional and
-respectful working relationship with [Company
-Name]. However, the lack of payment for my
-commissions and the threatening behavior
-exhibited by one affiliate have created an
-untenable situation. I hope that this report
-will prompt swift action to resolve these
-issues and restore trust between affiliates and
-the company.
-
-**Attachments**
-
-Please find attached:
-
-* A detailed breakdown of my sales performance
-and commission calculations
-* Screenshots of emails and conversations with
-[Threatening Affiliate] regarding payment and
-threatening behavior
-* Any additional documentation or evidence
-supporting my claims
-
-I hope this draft report helps you in your
-situation. Remember to keep a professional tone
-and focus on the facts, as well as maintain a
-clear and concise structure. Good luck, and I
-hope you receive a positive response from
-[Company Name].</h1>
-	<h2>this is just some text</h2>
-	<h3>this is just some text</h3>
-	<h4>this is just some text</h4>
-	<h5>this is just some text</h5>
-	<h6></h6>
-	<h7></h7>
-	<h8></h8>
-	<h9></h9>
-	
-<hr>
-
-
+  <footer>
+    <p>Prepared by [Your Name] — Confidential Report</p>
+  </footer>
 
 </body>
 </html>
