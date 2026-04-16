@@ -81,9 +81,10 @@ iframe {
 
 img {
   width:100%;
-  max-width:250px;
+  max-width:300px;
   margin-top:10px;
-  border-radius:10px;
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,0.1);
 }
 
 .grid {
@@ -98,9 +99,21 @@ video {
   box-shadow:0 0 40px rgba(0,255,213,0.25);
 }
 
+.audio-box {
+  background:rgba(0,0,0,0.4);
+  padding:15px;
+  border-radius:10px;
+  border:1px solid rgba(0,255,213,0.2);
+  margin-top:10px;
+}
+
+audio {
+  width:100%;
+}
+
 footer {
   text-align:center;
-  color:var(--muted);
+  color:#9aa0a6;
   margin-top:40px;
 }
 </style>
@@ -117,7 +130,6 @@ footer {
 
 <section>
 <h3>Visual Representation</h3>
-<p style="color:#9aa0a6;">Conceptual visualization of a call center environment</p>
 <video autoplay muted loop controls>
   <source src="callcenter.mp4" type="video/mp4">
 </video>
@@ -153,9 +165,14 @@ This report documents ongoing issues related to unpaid commissions and concernin
 <strong>Role:</strong> Reported Owner / Associated Party<br>
 <strong>Phone:</strong> +52 664 434 7818<br>
 
-<strong>Photo Evidence:</strong><br> <img src="abel.jpg">
+<strong>Photo:</strong> <img src="abel.jpg">
 
-<strong>Audio Evidence (Abel):</strong><br> <audio controls> <source src="abel_audio.ogg" type="audio/ogg"> </audio>
+<div class="audio-box">
+<strong>Audio (Abel)</strong>
+<audio controls>
+  <source src="abel_audio.mp3" type="audio/mpeg">
+</audio>
+</div>
 
 </div>
 
@@ -203,13 +220,17 @@ This conduct created a hostile and unsafe working environment.
 <section>
 <h3>Additional Audio Evidence</h3>
 
+<div class="audio-box">
 <audio controls>
   <source src="audio1.mp3" type="audio/mpeg">
 </audio>
+</div>
 
+<div class="audio-box">
 <audio controls>
   <source src="audio2.mp3" type="audio/mpeg">
 </audio>
+</div>
 
 </section>
 
