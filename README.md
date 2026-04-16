@@ -41,9 +41,9 @@ h1 {
   -webkit-text-fill-color:transparent;
 }
 
-/* 🔥 FIRE TEXT EFFECT */
+/* 🔥 BIGGER FIRE TEXT */
 .fire-text {
-  font-size:1.4rem;
+  font-size:2.2rem; /* increased size */
   font-weight:bold;
   background:linear-gradient(90deg,#ff0000,#ff6a00,#ffcc00,#ff0000);
   background-size:300%;
