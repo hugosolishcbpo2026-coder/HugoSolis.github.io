@@ -113,15 +113,7 @@ hope you receive a positive response from
 	<h7></h7>
 	<h8></h8>
 	<h9></h9>
-	<h10>BMW</h10>
-	<h11>Grey</h11>
-
-	<p>
-BMW Barato</p>
-
-<img src="<img width="800" height="450" alt="cars" src="https://github.com/user-attachments/assets/3cd66756-e47d-473e-a77f-34a4b25e3ac3" />
-" height="87.2px" width="150px">
-
+	
 <hr>
 
 
