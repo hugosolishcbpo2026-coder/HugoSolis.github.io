@@ -45,10 +45,10 @@
   <section>
     <h3>Introduction</h3>
     <p>
-    As a sales affiliate working with [Cyber City | Call Center Tijuana],
+   As a sales affiliate working with [Cyber City | Call Center Tijuana],
  there location is:
 
-https://www.google.com/maps/place/Cyber+City+%7C+Call+Center+Tijuana/@32.529329,-117.0473823,15z/data=!3m2!4b1!5s0x80d949ac72829b61:0x320b3a878a33df10!4m6!3m5!1s0x80d949ccec866f9d:0xdf6a96ecf3fc9ff0!8m2!3d32.5293113!4d-117.037104!16s%2Fg%2F11rgbgncqz?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
+https://www.google.com/maps/dir//Cyber+City+%7C+Call+Center+Tijuana,+Calle+Hermenegildo+Galeana+8133-4to+piso,+Zona+Centro,+22000+Tijuana,+B.C./@32.4937636,-117.0440192,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80d949ccec866f9d:0xdf6a96ecf3fc9ff0!2m2!1d-117.037104!2d32.5293113?entry=ttu&g_ep=EgoyMDI2MDQxMy4wIKXMDSoASAFQAw%3D%3D
 
  I have been diligently promoting their products and generating significant revenue. Unfortunately, despite multiple requests, I have not received payment for commissions owed to me, totaling [$X]. This report outlines the non-payment issue and the concerning threatening behavior exhibited by one affiliate.
     </p>
