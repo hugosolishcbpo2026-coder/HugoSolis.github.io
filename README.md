@@ -111,7 +111,7 @@ footer {
 
 <header>
 <h1>Affiliate Dispute Report</h1>
-<h2>Non-Payment & Conduct Concerns — Immediate Action Requested</h2>
+<h2>Non-Payment & Life Threatening Behavior — Immediate Action Requested</h2>
 </header>
 
 <section>
