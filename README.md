@@ -180,7 +180,7 @@ This report documents ongoing issues related to unpaid commissions and concernin
 <div class="contact-card">
 <strong>Name:</strong> Abel<br>
 <strong>Role:</strong> Reported Owner / Associated Party<br>
-<strong>Phone:</strong> +52 664 434 7818<br>
+<strong>Phone:</strong> +52 (664) 434-7818<br>
 
 <strong>Photo:</strong> <img src="abel.jpg">
 
@@ -196,7 +196,7 @@ This report documents ongoing issues related to unpaid commissions and concernin
 <div class="contact-card">
 <strong>Name:</strong> Ram<br>
 <strong>Role:</strong> Reported Owner / Associated Party<br>
-<strong>Phone:</strong> PASTE-NUMBER-HERE
+<strong>Phone:</strong> +52 (664) 523-0278
 </div>
 
 <p style="color:#9aa0a6;font-size:0.9rem;">
