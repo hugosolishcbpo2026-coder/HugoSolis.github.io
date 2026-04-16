@@ -41,6 +41,23 @@ h1 {
   -webkit-text-fill-color:transparent;
 }
 
+/* 🔥 FIRE TEXT EFFECT */
+.fire-text {
+  font-size:1.4rem;
+  font-weight:bold;
+  background:linear-gradient(90deg,#ff0000,#ff6a00,#ffcc00,#ff0000);
+  background-size:300%;
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  animation:fireMove 3s linear infinite;
+  text-shadow:0 0 10px rgba(255,100,0,0.8), 0 0 20px rgba(255,50,0,0.6);
+}
+
+@keyframes fireMove {
+  0% { background-position:0% }
+  100% { background-position:300% }
+}
+
 h2 {
   color:var(--muted);
 }
@@ -125,7 +142,7 @@ footer {
 
 <header>
 <h1>Affiliate Dispute Report</h1>
-<h2>Non-Payment & Life Threatening Behavior — Immediate Action Requested</h2>
+<h2 class="fire-text">Non-Payment & Life Threatening Behavior — Immediate Action Requested</h2>
 </header>
 
 <section>
