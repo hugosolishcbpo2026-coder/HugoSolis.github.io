@@ -155,9 +155,16 @@ footer {
 <section>
 <h3>Introduction</h3>
 <p>
-This report documents ongoing issues related to unpaid commissions and concerning interactions experienced while working as an affiliate for <strong>Cyber City | Call Center Tijuana</strong>.
+As a sales affiliate working with <strong>Cyber City | Call Center Tijuana</strong>, I have been diligently promoting their products and generating significant revenue. Despite this, I have not received payment for commissions owed to me, totaling <span class="highlight">[$X]</span>. This report outlines the non-payment issue and the concerning threatening behavior exhibited by one affiliate.
 </p>
-<p>Total outstanding balance: <span class="highlight">[$X]</span></p>
+
+<p>
+In addition to the financial concerns, there are serious issues regarding the company’s ownership claims. One of the individuals involved, <strong>Ram</strong>, has repeatedly misrepresented himself as the owner of <strong>Resolution Processing LLC</strong> and <strong>Morning Law Group</strong>. These statements are false. Ram is not the legitimate owner of either entity, and his impersonation of the actual owners raises grave concerns about honesty, transparency, and the credibility of Cyber City’s leadership.
+</p>
+
+<p>
+Such misrepresentation not only undermines trust but also creates confusion among affiliates and partners. By falsely claiming ownership of established companies, Ram attempts to lend himself and Cyber City unwarranted legitimacy, while in reality these claims are deceptive and damaging to everyone involved.
+</p>
 </section>
 
 <section>
