@@ -81,14 +81,15 @@ iframe {
 
 img {
   width:100%;
-  max-width:300px;
-  margin:10px;
+  max-width:250px;
+  margin-top:10px;
   border-radius:10px;
 }
 
 .grid {
   display:flex;
   flex-wrap:wrap;
+  gap:10px;
 }
 
 video {
@@ -150,7 +151,12 @@ This report documents ongoing issues related to unpaid commissions and concernin
 <div class="contact-card">
 <strong>Name:</strong> Abel<br>
 <strong>Role:</strong> Reported Owner / Associated Party<br>
-<strong>Phone:</strong> PASTE-NUMBER-HERE
+<strong>Phone:</strong> +52 664 434 7818<br>
+
+<strong>Photo Evidence:</strong><br> <img src="abel.jpg">
+
+<strong>Audio Evidence (Abel):</strong><br> <audio controls> <source src="abel_audio.ogg" type="audio/ogg"> </audio>
+
 </div>
 
 <div class="contact-card">
@@ -195,7 +201,7 @@ This conduct created a hostile and unsafe working environment.
 </section>
 
 <section>
-<h3>Audio Evidence</h3>
+<h3>Additional Audio Evidence</h3>
 
 <audio controls>
   <source src="audio1.mp3" type="audio/mpeg">
