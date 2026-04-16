@@ -81,9 +81,10 @@ iframe {
 
 img {
   width:100%;
-  max-width:250px;
+  max-width:300px;
   margin-top:10px;
-  border-radius:10px;
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,0.1);
 }
 
 .grid {
@@ -100,7 +101,7 @@ video {
 
 footer {
   text-align:center;
-  color:var(--muted);
+  color:#9aa0a6;
   margin-top:40px;
 }
 </style>
@@ -117,7 +118,6 @@ footer {
 
 <section>
 <h3>Visual Representation</h3>
-<p style="color:#9aa0a6;">Conceptual visualization of a call center environment</p>
 <video autoplay muted loop controls>
   <source src="callcenter.mp4" type="video/mp4">
 </video>
@@ -153,9 +153,7 @@ This report documents ongoing issues related to unpaid commissions and concernin
 <strong>Role:</strong> Reported Owner / Associated Party<br>
 <strong>Phone:</strong> +52 664 434 7818<br>
 
-<strong>Photo Evidence:</strong><br> <img src="abel.jpg">
-
-<strong>Audio Evidence (Abel):</strong><br> <audio controls> <source src="abel_audio.ogg" type="audio/ogg"> </audio>
+<strong>Photo Evidence:</strong> <img src="abel.jpg">
 
 </div>
 
@@ -198,19 +196,6 @@ https://morninglawgroup.com/
 <p class="highlight">
 This conduct created a hostile and unsafe working environment.
 </p>
-</section>
-
-<section>
-<h3>Additional Audio Evidence</h3>
-
-<audio controls>
-  <source src="audio1.mp3" type="audio/mpeg">
-</audio>
-
-<audio controls>
-  <source src="audio2.mp3" type="audio/mpeg">
-</audio>
-
 </section>
 
 <section>
