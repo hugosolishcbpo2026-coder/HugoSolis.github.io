@@ -124,7 +124,7 @@ footer {
 </section>
 
 <footer>
-Prepared by Hugo Obed Najera Solis — Confidential Report
+Prepared by Hugo Obed Najera Solis — Public Report
 </footer>
 
 </div>
