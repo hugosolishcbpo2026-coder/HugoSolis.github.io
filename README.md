@@ -155,16 +155,9 @@ footer {
 <section>
 <h3>Introduction</h3>
 <p>
-As a sales affiliate working with <strong>Cyber City | Call Center Tijuana</strong>, I have been diligently promoting their products and generating significant revenue. Despite this, I have not received payment for commissions owed to me, totaling <span class="highlight">[$X]</span>. This report outlines the non-payment issue and the concerning threatening behavior exhibited by one affiliate.
+This report documents ongoing issues related to unpaid commissions and concerning interactions experienced while working as an affiliate for <strong>Cyber City | Call Center Tijuana</strong>.
 </p>
-
-<p>
-In addition to the financial concerns, there are serious issues regarding the company’s ownership claims. One of the individuals involved, <strong>Ram</strong>, has repeatedly misrepresented himself as the owner of <strong>Resolution Processing LLC</strong> and <strong>Morning Law Group</strong>. These statements are false. Ram is not the legitimate owner of either entity, and his impersonation of the actual owners raises grave concerns about honesty, transparency, and the credibility of Cyber City’s leadership.
-</p>
-
-<p>
-Such misrepresentation not only undermines trust but also creates confusion among affiliates and partners. By falsely claiming ownership of established companies, Ram attempts to lend himself and Cyber City unwarranted legitimacy, while in reality these claims are deceptive and damaging to everyone involved.
-</p>
+<p>Total outstanding balance: <span class="highlight">[$X]</span></p>
 </section>
 
 <section>
@@ -231,14 +224,39 @@ https://morninglawgroup.com/
 
 <section>
 <h3>Threatening / Concerning Behavior</h3>
-<ul>
-<li>Verbal threat reported on [Date]</li>
-<li>Communication that appeared to misrepresent authority</li>
-</ul>
+
+<p>
+Over repeated occasions, whenever I requested payment for my base salary and commissions owed, Abel and Ram threatened my life and my freedom. They claimed they could have me arrested for “extortion” simply because I was asking for the compensation that was contractually promised to me.
+</p>
+
+<p>
+Ram, in particular, has consistently misrepresented himself as the owner of Resolution Processing LLC, Morning Law Group, and other companies for which Cyber City runs campaigns. These claims are false. I was their project manager for over five years, creating campaigns as a Cyber City employee. During that time, I served as sales manager for debt validation and debt settlement, and I was recognized as their best trainer. They relied on me to train closers, build campaigns, and write sales scripts.
+</p>
+
+<p>
+The sales script that Cyber City continues to use was written by me. It is my intellectual property, and they do not have the legal right to use it without compensation. They promised that for every closer I trained and for every sale made using my script and knowledge, I would be paid a commission and a SPIFF. These payments were never made.
+</p>
+
+<p>
+As project manager and in-house broker, I was also tasked with bringing in new clients and creating campaigns. To keep me close to the office, Cyber City agreed that part of my base pay would include covering my rent. They rented apartments for me near the office, but on three different occasions they stopped paying the rent. As a result, I was evicted three times and left on the street due to Cyber City’s failure to honor their commitment.
+</p>
+
+<p>
+In addition, I personally brought Alliviate Financial to Cyber City. I was promised that if Alliviate signed a contract and brought their campaign to Cyber City, I would manage and train the team. This promise was broken. Cyber City has had the Alliviate campaign for about 18 months, yet I was excluded from the building and ignored once the contract was signed. I was also promised a $200 weekly bonus for the life of the Alliviate campaign. Instead, I received only about $2,000 USD in pesos from Abel, who claimed this was all they would ever pay me for everything I had done for Cyber City and its affiliates.
+</p>
+
+<p>
+Abel and Ram’s behavior has gone beyond broken promises. They talk like mobsters running a cartel in Tijuana, carrying guns and intimidating everyone around them. Ram once told me that Abel could kill anyone he wanted and get rid of them without consequence, claiming he had permission from a Mexican General. They openly boast that they can do whatever they want.
+</p>
+
+<p>
+Cyber City’s leadership has also been involved in distributing drugs to their own agents. They front employees methamphetamine and cocaine, deducting the cost directly from their paychecks. This practice ensures that addicted agents remain on the phones, intoxicated and high, while calling clients. Such conduct is not only exploitative but also dangerous, undermining the integrity of the campaigns and putting both employees and clients at risk.
+</p>
 
 <p class="highlight">
-This conduct created a hostile and unsafe working environment.
+These actions demonstrate a sustained pattern of threats, coercion, non-payment, and dangerous workplace practices, creating a hostile and unsafe environment.
 </p>
+
 </section>
 
 <section>
